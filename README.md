@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a brazilian computer science student, from UFRJ.<br><br>I'm currently working as a Cyber Security Analyst at Hashdex, but I also love to start my own projects!</p>
+<p align="left">I'm a brazilian with a Computer Science degree from UFRJ.<br><br>I'm currently working as a Data Analyst at Hashdex, but I also love to start my own projects!</p>
 
 ###
 
